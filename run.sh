@@ -1,0 +1,2 @@
+source venv/bin/activate
+python create_food_delivery_pass.py
